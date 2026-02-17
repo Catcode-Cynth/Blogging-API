@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+*.log
+
+# Environment files
+.env
+.env.test
+
+# OS-specific files
+.DS_Store
+
+# Jest coverage output
+coverage/
+
+# Build artifacts (if any)
+dist/
+build/
